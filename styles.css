@@ -1,4 +1,12 @@
-body
+#main-content
+ {
+    background-color: grey;
+ }
+ #main-header
+ {
+    margin-left: 40px;
+ }
+.container
 {
-    color:aquamarine;
+    margin-top: 40px;
 }
