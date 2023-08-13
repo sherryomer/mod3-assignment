@@ -1,12 +1,30 @@
-#main-content
+ #chicken-section
  {
     background-color: grey;
+    margin: auto;
  }
- #main-header
+ #beef-section
  {
-    margin-left: 40px;
+    background-color: grey;
+    margin: auto;
  }
-.container
+ #sushi-section
+ {
+    background-color: grey;
+    margin: auto;
+ }
+.content{
+    margin-top: -15px;
+}
+p.fw-bold
 {
-    margin-top: 40px;
+    font-weight: bold;
+}
+.chicken
+{
+    clear:both
+}
+#main-header
+{
+    color:antiquewhite
 }
